@@ -1,7 +1,7 @@
 # Crestron-RoomBookingPanel
 DAL for Crestron TSS and TSW panels running Exchange Calendar Scheduling projects.
 
-###Planned Features
+### Planned Features
 - Automatic detection of panel project and change monitored properties based on the project.
 - Add control `projectRestart` 
 

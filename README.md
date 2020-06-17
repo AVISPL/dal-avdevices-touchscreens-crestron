@@ -14,7 +14,9 @@ DAL for Crestron TSS and TSW panels running Exchange Calendar Scheduling project
 - ExchangeUsername
 - PufVersion
 - ConnectionStatus
-- MacAddres
+- MacAddress
+- RebootReason
+- DeviceName
 
 ### Current Controls:
 - Reboot

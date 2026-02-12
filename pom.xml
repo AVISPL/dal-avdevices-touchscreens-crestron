@@ -41,7 +41,7 @@
     <dependency>
       <groupId>org.json</groupId>
       <artifactId>json</artifactId>
-      <version>20190722</version>
+      <version>20231013</version>
       <scope>system</scope>
       <systemPath>${basedir}/src/main/resources/json-20190722.jar</systemPath>
     </dependency>
